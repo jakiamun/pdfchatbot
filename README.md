@@ -8,11 +8,11 @@ This repository demonstrates how to build Retrieval-Augmented Generation (RAG), 
 
 Following is the summary of required library:
 
-LangChain: A framework for building applications with large language models (LLMs), facilitating complex workflows like Retrieval-Augmented Generation (RAG).
-TextLoader: Loads text from various sources into the processing pipeline.
-PdfReader: Extracts text from PDF files for further processing.
-HuggingFaceHub: Connects to Hugging Face models, including LLMs and embedding models.
-Text Splitter: Breaks down large text into smaller, manageable chunks.
-Embeddings: Converts text chunks into numerical embeddings for semantic understanding.
-Vector Stores (FAISS): Stores and retrieves text embeddings efficiently for similarity searches.
-RetrievalQA and ConversationalRetrievalChain: Integrates the retrieval system with the LLM to generate context-aware answers.
+1. LangChain: A framework for building applications with large language models (LLMs), facilitating complex workflows like Retrieval-Augmented Generation (RAG).
+2. TextLoader: Loads text from various sources into the processing pipeline.
+3. PdfReader: Extracts text from PDF files for further processing.
+4. HuggingFaceHub: Connects to Hugging Face models, including LLMs and embedding models.
+5. Text Splitter: Breaks down large text into smaller, manageable chunks.
+6. Embeddings: Converts text chunks into numerical embeddings for semantic understanding.
+7. Vector Stores (FAISS): Stores and retrieves text embeddings efficiently for similarity searches.
+8. RetrievalQA and ConversationalRetrievalChain: Integrates the retrieval system with the LLM to generate context-aware answers.
